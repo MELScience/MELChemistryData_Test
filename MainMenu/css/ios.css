@@ -1,0 +1,82 @@
+body {
+  font-family: 'Helvetica Neue', 'Courier New', sans-serif;
+  font-weight: 300;
+  background-color: #E2E2E2;
+}
+
+.container {
+  padding-top: 0px;
+}
+
+.header {
+  display: none;
+}
+
+.inner-container {
+  margin-bottom: 49px;
+}
+
+.inner-container .reagent .name {
+  font-weight: 500;
+}
+
+.tabs-container {
+  bottom: 0px;
+  height: 49px;
+  background-color: #F5F7F9;
+  opacity: 0.97;
+  backdrop-filter: blur(5px)
+}
+
+.tabs {
+  height: 49px;
+}
+
+.tabs .tab {
+  opacity: 1;
+  height: 49px;
+  border: none;
+  font-size: 10px;
+  padding: 6px;
+}
+
+.tabs .tab-button {
+  width: inherit;
+  margin: 0 auto;
+}
+
+.tabs .tab-button img {
+  width: 25px;
+  margin: 0 auto;
+  display: block;
+}
+
+.tabs .tab-button .pic {
+  width: 25px;
+  height: 25px;
+  margin: 0 auto;
+  display: block;
+  background-color: black;
+}
+
+.tabs .tab.active .tab-button .pic {
+  background-color: rgb(21, 125, 251);
+}
+
+.tabs .tab-button #reagents {
+  -webkit-mask-image: url(../img/reagents.svg);
+}
+
+.tabs .tab-button #experiments {
+  -webkit-mask-image: url(../img/experiments.svg);
+}
+
+.tabs .tab.active {
+  color: rgb(21, 125, 251);
+}
+
+.tabs .tab-button .title {
+  width: 100%;
+  clear: both;
+  text-align: center;
+}

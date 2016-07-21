@@ -1,0 +1,53 @@
+#container{
+	color: rgb(193, 240, 249);
+	/*If >90%, scroll bars will appear*/
+	width: 90%;
+	height: 90%%;
+	overflow: hidden;
+	white-space: nowrap;
+	position:absolute;
+	font: Helvetica;
+}
+.number{
+	text-align: right;
+	font-size: 24px;
+}
+.symbol { 
+	text-align: center;
+	font-size: 60px;
+}
+.name{
+	text-align: center;
+	font-size: 24px;
+}
+.configuration{
+	text-align: right;
+}
+.mass{
+	text-align: right;
+}
+.oxidation-numbers-title{
+	text-align: right;
+}
+.oxidation-possible {
+	display: inline-block;
+	text-align: center;
+	float:right;
+	padding: 3px;
+}
+.oxidation-current {
+	display: inline-block; 
+	text-align: center;
+	float:right;
+	padding: 3px;
+	border-radius: 8px; 
+	border: 1px solid rgb(193, 240, 249);
+}
+.electronegativity{
+	clear: both;
+	text-align: right;
+}
+.date{
+	text-align: right;
+}
+

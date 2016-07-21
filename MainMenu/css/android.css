@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', 'Noto', sans-serif;
+  font-weight: 500;
+}
+
+.container {
+  padding-top: 48px;
+}
+
+.inner-container {
+  width: 96%;
+}
+
+.cell {
+  box-shadow: 0 4px 9px -7px #000000;
+  border-radius: 4px;
+}
+
+.tabs-container {
+  top: 0px;
+  height: 48px;
+  background-color: #2E2E2E;
+  box-shadow: 0 4px 9px -7px #000000;
+}
+
+.tabs {
+  margin: 0px auto;
+  height: 48px;
+  max-width: 528px;
+}
+
+.tabs .tab {
+  text-align: center;
+}
+
+.tabs .tab.active {
+  border-bottom: 2px solid #FFF;
+}
+
+.tabs .tab-button {
+  height: 48px;
+  width: 100%;
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: end;
+  -webkit-box-orient: vertical;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.tabs .tab .pic {
+  display: none;
+}
+
+.tabs .tab .title {
+  margin: 0px auto;
+  color: #FFF;
+  font-weight: 500;
+  font-size: 14px;
+  text-transform: uppercase;
+  margin-bottom: 14px;
+}
