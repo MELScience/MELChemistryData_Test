@@ -1,225 +1,668 @@
-mel_code,name
-137,tannin
-101,pepsin A
-127,liquid soap
-38,tannin
-118,liquid soap
-128,glycerol
-119,liquid soap
-122,boiled egg
-83,"watercolor, red"
-84,"watercolor, brown"
-81,watercolor
-133,unknown
-104,milk
-86,sodium polyacrylate
-37,tannin
-99,silver nitrate
-112,silver nitrate
-116,silver nitrate
-121,aluminum foil
-120,activated carbon
-20,graphite
-65,sugar cube
-64,granulated sugar
-25,sucrose
-77,methylene blue
-115,methylene blue
-78,methylene blue
-79,eosin
-80,eosin
-90,thymol blue
-111,thymol blue
-129,thymol blue
-40,thymol blue
-39,thymol blue
-95,hard liquor
-132,unknown
-52,glycerol
-51,glycerol
-91,tartaric acid
-12,hexamethylene-tetramine
-41,citric acid
-31,ascorbic acid
-42,citric acid
-53,citric acid
-82,citric acid
-43,citric acid
-87,sodium benzoate
-71,luminol 
-74,luminol 
-103,ninhydrin
-106,ninhydrin
-107,Calcium chloride
-113,Calcium chloride
-102,Calcium chloride
-131,calcium nitrate
-89,calcium nitrate
-45,calcium hydroxide
-44,calcium hydroxide
-105,vinegar
-18,sodium acetate
-126,copper plate
-100,copper  powder
-98,copper  wire
-93,copper (II) sulfate
-1,copper (II) sulfate
-135,copper (II) sulfate
-6,copper (II) sulfate
-57,iron bearings ball
-4,steel wool
-28,iron for disposal
-9,iron
-56,iron paper clip
-55,iron nail
-10,iron filings
-7,iron (II) sulfate
-33,iron (II) sulfate
-23,distilled water
-92,still water
-138,mineral water
-70,hydrogen peroxide
-69,hydrogen peroxide
-66,hydrochloric acid
-32,hydrochloric acid
-54,hydrochloric acid
-110,iodine
-15,iodine
-36,iodine
-72,potassium hexacyanoferrate (III)
-73,potassium hexacyanoferrate (III)
-35,potassium iodide
-109,potassium iodide
-46,potassium permanganate
-16,potassium permanganate
-94,magnesium
-124,magnesium
-19,manganese (IV) dioxide
-47,sodium carbonate
-48,sodium carbonate
-17,disodium disulfite
-34,disodium disulfite
-49,sodium sulfate
-130,sodium sulfate
-3,sodium chloride
-108,sodium chloride
-50,sodium chloride
-117,sodium chloride
-114,sodium hydrogen carbonate
-11,sodium hydrogen carbonate
-27,sodium hydrogen sulfate
-5,sodium hydrogen sulfate
-60,sodium hydrogen sulfate
-24,sodium hydrogen sulfate
-85,sodium azide
-58,sodium hydroxide
-59,sodium hydroxide
-68,ammonia solution
-67,ammonia solution
-88,ammonium carbonate
-26,ammonium chloride
-22,ammonium chloride
-61,sulfur powder
-8,tin (II) chloride
-30,tin (II) chloride
-125,zinc wire
-29,zinc
-21,zinc powder
-97,zinc powder
-134,zinc sulfate
-136,zinc sulfate
-123,zinc sulfate
-96,zinc sulfate
-76,lactose
-75,lactose
-502,expid2
-503,expid3
-504,expid4
-505,expid5
-506,expid6
-507,expid7
-508,expid8
-509,expid9
-510,expid10
-512,expid12
-513,expid13
-514,expid14
-515,expid15
-516,expid16
-517,expid17
-518,expid18
-519,expid19
-520,expid20
-521,expid22
-522,expid23
-523,expid24
-525,expid25
-526,expid26
-527,expid27
-528,expid28
-529,expid29
-531,expid31
-532,expid32
-533,expid33
-534,expid34
-535,expid35
-536,expid36
-537,expid37
-538,expid38
-539,expid39
-540,expid40
-541,expid41
-542,expid42
-544,expid44
-545,expid45
-546,expid46
-547,expid47
-548,expid48
-549,expid49
-550,expid50
-551,expid51
-552,expid52
-553,expid53
-554,expid54
-555,expid55
-556,expid56
-557,expid57
-558,expid58
-559,expid59
-560,expid60
-561,expid61
-562,expid62
-563,expid63
-564,expid64
-565,expid65
-566,expid66
-567,expid67
-568,expid68
-570,expid70
-571,expid71
-572,expid72
-573,expid73
-574,expid74
-575,expid75
-576,expid76
-577,expid77
-578,expid78
-579,expid79
-580,expid80
-581,expid81
-582,expid82
-583,expid83
-584,expid84
-585,expid85
-586,expid86
-587,expid87
-588,expid88
-589,expid89
-590,expid90
-591,expid91
-592,expid92
-593,expid93
-594,expid94
-595,expid95
-596,expid96
-597,expid97
+"code_id","mel_code","name"
+225,112,"silver nitrate"
+198,99,"silver nitrate"
+232,116,"silver nitrate"
+215,107,"сalcium chloride"
+226,113,"сalcium chloride"
+204,102,"сalcium chloride"
+178,89,"calcium nitrate"
+263,131,"calcium nitrate"
+89,44,"calcium hydroxide"
+90,45,"calcium hydroxide"
+12,6,"Copper (II) sulfate"
+270,135,"Copper (II) sulfate"
+3,1,"Copper (II) sulfate"
+187,93,"Copper (II) sulfate"
+201,100,"copper powder"
+252,126,"copper plate"
+197,98,"copper wire"
+183,91,"tartaric acid"
+293,146,"Iron (III) chloride"
+281,140,"Iron (III) chloride"
+66,33,"Iron (II) sulfate"
+15,7,"Iron (II) sulfate"
+287,143,"Iron (II) sulfate"
+300,150,"iron"
+18,9,"iron"
+113,56,"iron paper clip"
+111,55,"iron nail"
+114,57,"iron bearings ball"
+139,69,"Hydrogen peroxide"
+141,70,"Hydrogen peroxide"
+184,92,"water"
+46,23,"water"
+65,32,"Hydrochloric acid"
+108,54,"Hydrochloric acid"
+132,66,"Hydrochloric acid"
+72,36,"iodine"
+221,110,"iodine"
+30,15,"iodine"
+147,73,"Potassium hexacyanoferrate (III)"
+144,72,"Potassium hexacyanoferrate (III)"
+298,149,"Potassium hexacyanoferrate (III)"
+278,139,"Potassium hexacyanoferrate (II)"
+71,35,"potassium iodide"
+219,109,"potassium iodide"
+33,16,"potassium permanganate"
+92,46,"potassium permanganate"
+249,124,"magnesium"
+189,94,"magnesium"
+39,19,"Manganese (IV) dioxide"
+291,145,"Manganese (II) sulfate"
+284,142,"Manganese (II) sulfate"
+95,47,"sodium carbonate"
+96,48,"sodium carbonate"
+68,34,"disodium disulfite"
+34,17,"disodium disulfite"
+260,130,"sodium sulfate"
+99,49,"sodium sulfate"
+6,3,"sodium chloride"
+235,117,"sodium chloride"
+216,108,"sodium chloride"
+101,50,"sodium chloride"
+23,11,"sodium hydrogen carbonate"
+228,114,"sodium hydrogen carbonate"
+48,24,"sodium hydrogen sulfate"
+54,27,"sodium hydrogen sulfate"
+120,60,"sodium hydrogen sulfate"
+10,5,"sodium hydrogen sulfate"
+170,85,"sodium azide"
+119,59,"sodium hydroxide"
+116,58,"sodium hydroxide"
+135,67,"ammonia solution"
+136,68,"ammonia solution"
+177,88,"ammonium carbonate"
+53,26,"ammonium chloride"
+45,22,"ammonium chloride"
+123,61,"sulfur powder"
+60,30,"tin(II) chloride"
+17,8,"tin(II) chloride"
+192,96,"zinc sulfate"
+269,134,"zinc sulfate"
+246,123,"zinc sulfate"
+272,136,"zinc sulfate"
+58,29,"zinc"
+250,125,"zinc wire"
+195,97,"zinc powder"
+43,21,"zinc powder"
+169,84,"watercolor, brown"
+166,83,"watercolor, red"
+163,81,"watercolor"
+243,121,"aluminum foil"
+63,31,"ascorbic acid"
+36,18,"sodium acetate"
+175,87,"sodium benzoate"
+245,122,"boiled egg"
+277,138,"mineral water"
+190,95,"hard liquor"
+102,51,"glycerol"
+105,52,"glycerol"
+257,128,"glycerol"
+40,20,"graphite"
+9,4,"steel wool"
+20,10,"iron filings"
+294,147,"Ammonium iron (III) sulfate"
+57,28,"iron for disposal"
+237,118,"liquid soap"
+238,119,"liquid soap"
+255,127,"liquid soap"
+288,144,"liquid glass"
+150,75,"lactose"
+153,76,"lactose"
+83,41,"citric acid"
+106,53,"citric acid"
+165,82,"citric acid"
+85,42,"citric acid"
+86,43,"citric acid"
+297,148,"citric acid"
+149,74,"luminol "
+142,71,"luminol "
+154,77,"methylene blue"
+231,115,"methylene blue"
+156,78,"methylene blue"
+209,104,"milk"
+212,106,"ninhydrin"
+207,103,"ninhydrin"
+202,101,"pepsin A"
+172,86,"sodium polyacrylate"
+267,133,""
+51,25,"sucrose"
+130,65,"sugar cube"
+129,64,"granulated sugar"
+75,37,"tannin"
+77,38,"tannin"
+275,137,"tannin"
+78,39,"thymol blue"
+222,111,"thymol blue"
+258,129,"thymol blue"
+180,90,"thymol blue"
+80,40,"thymol blue"
+240,120,"activated carbon"
+210,105,"vinegar"
+24,12,"hexamethylene-tetramine"
+159,79,"eosin"
+160,80,"eosin"
+264,132,"Ethanol"
+2539,501,""
+2541,502,""
+2542,503,""
+2544,504,""
+2547,505,""
+2549,506,""
+2550,507,""
+2553,508,""
+2554,509,""
+2556,510,""
+2559,511,""
+4097,512,""
+4098,513,""
+4100,514,""
+4103,515,""
+4104,516,""
+4107,517,""
+4109,518,""
+4110,519,""
+4112,520,""
+4115,521,""
+4117,522,""
+4118,523,""
+4121,524,""
+4122,525,""
+4124,526,""
+4127,527,""
+4128,528,""
+4131,529,""
+4133,530,""
+4134,531,""
+4137,532,""
+4138,533,""
+4140,534,""
+4143,535,""
+4145,536,""
+4146,537,""
+4148,538,""
+4151,539,""
+4152,540,""
+4155,541,""
+4157,542,""
+4158,543,""
+4160,544,""
+4163,545,""
+4165,546,""
+4166,547,""
+4169,548,""
+4170,549,""
+4172,550,""
+4175,551,""
+4177,552,""
+4178,553,""
+4180,554,""
+4183,555,""
+4184,556,""
+4187,557,""
+4189,558,""
+4190,559,""
+4193,560,""
+4194,561,""
+4196,562,""
+4199,563,""
+4200,564,""
+4203,565,""
+4205,566,""
+4206,567,""
+4208,568,""
+4211,569,""
+4213,570,""
+4214,571,""
+4217,572,""
+4218,573,""
+4220,574,""
+4223,575,""
+4224,576,""
+4227,577,""
+4229,578,""
+4230,579,""
+4233,580,""
+4234,581,""
+4236,582,""
+4239,583,""
+4241,584,""
+4242,585,""
+4244,586,""
+4247,587,""
+4248,588,""
+4251,589,""
+4253,590,""
+4254,591,""
+4257,592,""
+4258,593,""
+4260,594,""
+4263,595,""
+4264,596,""
+4267,597,""
+4269,598,""
+4270,599,""
+4272,600,""
+4275,601,""
+4277,602,""
+4278,603,""
+4281,604,""
+4282,605,""
+4284,606,""
+4287,607,""
+4289,608,""
+4290,609,""
+4292,610,""
+4295,611,""
+4296,612,""
+4299,613,""
+4301,614,""
+4302,615,""
+4304,616,""
+4307,617,""
+4309,618,""
+4310,619,""
+4313,620,""
+4314,621,""
+4316,622,""
+4319,623,""
+4320,624,""
+4323,625,""
+4325,626,""
+4326,627,""
+4329,628,""
+4330,629,""
+4332,630,""
+4335,631,""
+4337,632,""
+4338,633,""
+4340,634,""
+4343,635,""
+4344,636,""
+4347,637,""
+4349,638,""
+4350,639,""
+4352,640,""
+4355,641,""
+4357,642,""
+4358,643,""
+4361,644,""
+4362,645,""
+4364,646,""
+4367,647,""
+4369,648,""
+4370,649,""
+4372,650,""
+4375,651,""
+4376,652,""
+4379,653,""
+4381,654,""
+4382,655,""
+4385,656,""
+4386,657,""
+4388,658,""
+4391,659,""
+4392,660,""
+4395,661,""
+4397,662,""
+4398,663,""
+4400,664,""
+4403,665,""
+4405,666,""
+4406,667,""
+4409,668,""
+4410,669,""
+4412,670,""
+4415,671,""
+4417,672,""
+4418,673,""
+4420,674,""
+4423,675,""
+4424,676,""
+4427,677,""
+4429,678,""
+4430,679,""
+4432,680,""
+4435,681,""
+4437,682,""
+4438,683,""
+4441,684,""
+4442,685,""
+4444,686,""
+4447,687,""
+4448,688,""
+4451,689,""
+4453,690,""
+4454,691,""
+4457,692,""
+4458,693,""
+4460,694,""
+4463,695,""
+4465,696,""
+4466,697,""
+4468,698,""
+4471,699,""
+4472,700,""
+4475,701,""
+4477,702,""
+4478,703,""
+4481,704,""
+4482,705,""
+4484,706,""
+4487,707,""
+4488,708,""
+4491,709,""
+4493,710,""
+4494,711,""
+4496,712,""
+4499,713,""
+4501,714,""
+4502,715,""
+4505,716,""
+4506,717,""
+4508,718,""
+4511,719,""
+4512,720,""
+4515,721,""
+4517,722,""
+4518,723,""
+4521,724,""
+4522,725,""
+4524,726,""
+4527,727,""
+4529,728,""
+4530,729,""
+4532,730,""
+4535,731,""
+4536,732,""
+4539,733,""
+4541,734,""
+4542,735,""
+4544,736,""
+4547,737,""
+4549,738,""
+4550,739,""
+4553,740,""
+4554,741,""
+4556,742,""
+4559,743,""
+4561,744,""
+4562,745,""
+4564,746,""
+4567,747,""
+4568,748,""
+4571,749,""
+4573,750,""
+4574,751,""
+4577,752,""
+4578,753,""
+4580,754,""
+4583,755,""
+4584,756,""
+4587,757,""
+4589,758,""
+4590,759,""
+4592,760,""
+4595,761,""
+4597,762,""
+4598,763,""
+4601,764,""
+4602,765,""
+4604,766,""
+4607,767,""
+6144,768,""
+6147,769,""
+6149,770,""
+6150,771,""
+6153,772,""
+6154,773,""
+6156,774,""
+6159,775,""
+6161,776,""
+6162,777,""
+6164,778,""
+6167,779,""
+6168,780,""
+6171,781,""
+6173,782,""
+6174,783,""
+6177,784,""
+6178,785,""
+6180,786,""
+6183,787,""
+6184,788,""
+6187,789,""
+6189,790,""
+6190,791,""
+6192,792,""
+6195,793,""
+6197,794,""
+6198,795,""
+6201,796,""
+6202,797,""
+6204,798,""
+6207,799,""
+6209,800,""
+6210,801,""
+6212,802,""
+6215,803,""
+6216,804,""
+6219,805,""
+6221,806,""
+6222,807,""
+6224,808,""
+6227,809,""
+6229,810,""
+6230,811,""
+6233,812,""
+6234,813,""
+6236,814,""
+6239,815,""
+6240,816,""
+6243,817,""
+6245,818,""
+6246,819,""
+6249,820,""
+6250,821,""
+6252,822,""
+6255,823,""
+6257,824,""
+6258,825,""
+6260,826,""
+6263,827,""
+6264,828,""
+6267,829,""
+6269,830,""
+6270,831,""
+6273,832,""
+6274,833,""
+6276,834,""
+6279,835,""
+6280,836,""
+6283,837,""
+6285,838,""
+6286,839,""
+6288,840,""
+6291,841,""
+6293,842,""
+6294,843,""
+6297,844,""
+6298,845,""
+6300,846,""
+6303,847,""
+6304,848,""
+6307,849,""
+6309,850,""
+6310,851,""
+6313,852,""
+6314,853,""
+6316,854,""
+6319,855,""
+6321,856,""
+6322,857,""
+6324,858,""
+6327,859,""
+6328,860,""
+6331,861,""
+6333,862,""
+6334,863,""
+6336,864,""
+6339,865,""
+6341,866,""
+6342,867,""
+6345,868,""
+6346,869,""
+6348,870,""
+6351,871,""
+6353,872,""
+6354,873,""
+6356,874,""
+6359,875,""
+6360,876,""
+6363,877,""
+6365,878,""
+6366,879,""
+6369,880,""
+6370,881,""
+6372,882,""
+6375,883,""
+6376,884,""
+6379,885,""
+6381,886,""
+6382,887,""
+6384,888,""
+6387,889,""
+6389,890,""
+6390,891,""
+6393,892,""
+6394,893,""
+6396,894,""
+6399,895,""
+6401,896,""
+6402,897,""
+6404,898,""
+6407,899,""
+6408,900,""
+6411,901,""
+6413,902,""
+6414,903,""
+6416,904,""
+6419,905,""
+6421,906,""
+6422,907,""
+6425,908,""
+6426,909,""
+6428,910,""
+6431,911,""
+6432,912,""
+6435,913,""
+6437,914,""
+6438,915,""
+6441,916,""
+6442,917,""
+6444,918,""
+6447,919,""
+6449,920,""
+6450,921,""
+6452,922,""
+6455,923,""
+6456,924,""
+6459,925,""
+6461,926,""
+6462,927,""
+6464,928,""
+6467,929,""
+6469,930,""
+6470,931,""
+6473,932,""
+6474,933,""
+6476,934,""
+6479,935,""
+6481,936,""
+6482,937,""
+6484,938,""
+6487,939,""
+6488,940,""
+6491,941,""
+6493,942,""
+6494,943,""
+6497,944,""
+6498,945,""
+6500,946,""
+6503,947,""
+6504,948,""
+6507,949,""
+6509,950,""
+6510,951,""
+6512,952,""
+6515,953,""
+6517,954,""
+6518,955,""
+6521,956,""
+6522,957,""
+6524,958,""
+6527,959,""
+6528,960,""
+6531,961,""
+6533,962,""
+6534,963,""
+6537,964,""
+6538,965,""
+6540,966,""
+6543,967,""
+6545,968,""
+6546,969,""
+6548,970,""
+6551,971,""
+6552,972,""
+6555,973,""
+6557,974,""
+6558,975,""
+6561,976,""
+6562,977,""
+6564,978,""
+6567,979,""
+6568,980,""
+6571,981,""
+6573,982,""
+6574,983,""
+6576,984,""
+6579,985,""
+6581,986,""
+6582,987,""
+6585,988,""
+6586,989,""
+6588,990,""
+6591,991,""
+6593,992,""
+6594,993,""
+6596,994,""
+6599,995,""
+6600,996,""
+6603,997,""
+6605,998,""
+6606,999,""
+6608,1000,""
+6611,1001,""
+6613,1002,""
+6614,1003,""
+6617,1004,""
+6618,1005,""
+6620,1006,""
+6623,1007,""
+6624,1008,""
+6627,1009,""
+6629,1010,""
+6630,1011,""
+6633,1012,""
+6634,1013,""
+6636,1014,""
+6639,1015,""
+6641,1016,""
+6642,1017,""
+6644,1018,""
+6647,1019,""
+6648,1020,""
+6651,1021,""
+6653,1022,""
+6654,1023,""
